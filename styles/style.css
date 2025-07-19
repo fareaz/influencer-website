@@ -186,6 +186,23 @@ main section p{
     color: #ffffff;
     border: none;
 }
+footer{
+    background-color: #18191F;
+    color: #ffffff;
+    text-align: center;
+     padding:100px 50px;
+   
+}
+footer h2{
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 14px;
+}
+footer p{
+    font-size: 0.9rem;
+    font-weight: 700;
+    margin-bottom:10px ;
+}
 
 
 
