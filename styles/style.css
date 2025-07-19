@@ -243,5 +243,6 @@ footer p{
     flex-direction: column-reverse;
     gap: 100px;
     text-align: center;
+    margin:50px auto;
 }
 }
